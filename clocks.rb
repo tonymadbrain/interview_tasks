@@ -25,5 +25,3 @@ result_1 = result_1.to_s.sub!(/\-/, '').to_i
 result_2 = 360 - result_1
 
 puts "Angle: #{result_1} or #{result_2}"
-
-

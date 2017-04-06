@@ -9,3 +9,6 @@ if count % 2 == 0
 else
   puts "We havn't 2 commands"
 end
+
+unless
+  
